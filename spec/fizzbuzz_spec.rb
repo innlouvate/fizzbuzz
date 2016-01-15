@@ -15,7 +15,5 @@ describe 'fizzbuzz' do
 
   it 'return given number if not a multiple of 3 or 5' do
     expect(fizzbuzz(2)).to eq '2'
-
   end
-
 end
